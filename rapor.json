@@ -1,0 +1,410 @@
+{
+  "schemaVersion": 2,
+  "type": "KW_BODRUM_PUBLIC_DASHBOARD_SNAPSHOT",
+  "generatedAt": "2026-11-05T00:00:00.000Z",
+  "cutoff": "2026-11-02",
+  "historicalWeeks": [
+    {
+      "start": "2026-10-26",
+      "end": "2026-10-31",
+      "total": 63,
+      "positive": 27,
+      "negative": 29,
+      "pending": 7,
+      "estimated": true,
+      "people": [
+        [
+          "Sami Özveren",
+          8
+        ],
+        [
+          "Deniz Özen",
+          6
+        ],
+        [
+          "Dilara Sünbül",
+          5
+        ],
+        [
+          "İsim belirtilmemiş",
+          4
+        ],
+        [
+          "Gönderen okunamadı",
+          3
+        ],
+        [
+          "Hakan Çakar",
+          3
+        ],
+        [
+          "Hatice Coşkun",
+          3
+        ],
+        [
+          "Aslı Toköz / ErcanBerkTeam",
+          2
+        ],
+        [
+          "Esra Gün Tuncer",
+          2
+        ],
+        [
+          "Gülderen Akpınar",
+          2
+        ],
+        [
+          "Kahraman Gökmen",
+          2
+        ],
+        [
+          "Kübra Coşkun",
+          2
+        ],
+        [
+          "Mert Günay",
+          2
+        ],
+        [
+          "Şefika Akagündüz",
+          2
+        ],
+        [
+          "Telefon •••• 6221",
+          1
+        ],
+        [
+          "Telefon •••• 5585",
+          1
+        ],
+        [
+          "@gunesdnmz",
+          1
+        ],
+        [
+          "Ali Emre Karaöz",
+          1
+        ],
+        [
+          "Ayşegül Bacak",
+          1
+        ],
+        [
+          "Candan Erim",
+          1
+        ],
+        [
+          "Faruk Meltem",
+          1
+        ],
+        [
+          "Güneş Dönmez",
+          1
+        ],
+        [
+          "Gürol İNAN",
+          1
+        ],
+        [
+          "Oktay Yorulmaz",
+          1
+        ],
+        [
+          "Saygın Özkan",
+          1
+        ],
+        [
+          "Sena Dinç",
+          1
+        ],
+        [
+          "Sena Ortaç",
+          1
+        ],
+        [
+          "Serap Demirel",
+          1
+        ],
+        [
+          "Sevil Genç",
+          1
+        ],
+        [
+          "Yeliz Genç",
+          1
+        ],
+        [
+          "Zehra Kozak Özer",
+          1
+        ]
+      ],
+      "regions": [
+        [
+          "Turgutreis",
+          16
+        ],
+        [
+          "Ortakent",
+          15
+        ],
+        [
+          "Bitez",
+          13
+        ],
+        [
+          "Yahşi",
+          11
+        ],
+        [
+          "Konacık",
+          10
+        ],
+        [
+          "Bölge belirtilmemiş",
+          7
+        ],
+        [
+          "Gümüşlük",
+          6
+        ],
+        [
+          "Yalıkavak",
+          5
+        ],
+        [
+          "Akyarlar",
+          4
+        ],
+        [
+          "Kadıkalesi",
+          4
+        ],
+        [
+          "Alt Konacık",
+          3
+        ],
+        [
+          "Bodrum geneli",
+          3
+        ],
+        [
+          "Bodrum Merkez",
+          3
+        ],
+        [
+          "Gündoğan",
+          3
+        ],
+        [
+          "Koyunbaba",
+          3
+        ],
+        [
+          "Asarlık",
+          2
+        ],
+        [
+          "Bahçelievler",
+          2
+        ],
+        [
+          "İslamhaneleri",
+          2
+        ],
+        [
+          "Kumbahçe",
+          2
+        ],
+        [
+          "Ortakent Yahşi",
+          2
+        ],
+        [
+          "Torba",
+          2
+        ],
+        [
+          "Yarımada geneli",
+          2
+        ],
+        [
+          "Adabükü",
+          1
+        ],
+        [
+          "Alt Karabağ",
+          1
+        ],
+        [
+          "Bankevler",
+          1
+        ],
+        [
+          "Dirmil",
+          1
+        ],
+        [
+          "Eskiçeşme",
+          1
+        ],
+        [
+          "Geriş",
+          1
+        ],
+        [
+          "Gümbet",
+          1
+        ],
+        [
+          "Gümsan",
+          1
+        ],
+        [
+          "Güney bölge",
+          1
+        ],
+        [
+          "Gürece",
+          1
+        ],
+        [
+          "Karabağ",
+          1
+        ],
+        [
+          "Kuzey (belirsiz)",
+          1
+        ],
+        [
+          "Onurkent",
+          1
+        ],
+        [
+          "Peksimet",
+          1
+        ],
+        [
+          "Türkbükü",
+          1
+        ],
+        [
+          "Umurça",
+          1
+        ]
+      ],
+      "budgets": [
+        [
+          "25.000.000 TL",
+          10
+        ],
+        [
+          "15.000.000 TL",
+          8
+        ],
+        [
+          "12.000.000 TL",
+          6
+        ],
+        [
+          "20.000.000 TL",
+          4
+        ],
+        [
+          "10.000.000 TL",
+          4
+        ],
+        [
+          "35.000.000 TL",
+          3
+        ],
+        [
+          "Üst bütçe belirtilmemiş",
+          3
+        ],
+        [
+          "17.000.000 TL",
+          2
+        ],
+        [
+          "8.000.000 TL",
+          2
+        ],
+        [
+          "6.500.000 TL",
+          2
+        ],
+        [
+          "6.000.000 TL",
+          2
+        ],
+        [
+          "500.000 USD",
+          2
+        ],
+        [
+          "50.000.000 TL",
+          1
+        ],
+        [
+          "40.000.000 TL",
+          1
+        ],
+        [
+          "30.000.000 TL",
+          1
+        ],
+        [
+          "26.000.000 TL",
+          1
+        ],
+        [
+          "21.000.000 TL",
+          1
+        ],
+        [
+          "18.000.000 TL",
+          1
+        ],
+        [
+          "16.000.000 TL",
+          1
+        ],
+        [
+          "13.500.000 TL",
+          1
+        ],
+        [
+          "12.500.000 TL",
+          1
+        ],
+        [
+          "11.000.000 TL",
+          1
+        ],
+        [
+          "9.500.000 TL",
+          1
+        ],
+        [
+          "9.000.000 TL",
+          1
+        ],
+        [
+          "5.000.000 TL",
+          1
+        ],
+        [
+          "1.300.000 USD",
+          1
+        ],
+        [
+          "2.000.000 USD",
+          1
+        ]
+      ],
+      "source": "26–31 Ekim 2026 birleşik tarihsel rapor (dönüşler tahmini)"
+    }
+  ],
+  "days": [],
+  "coverages": []
+}
